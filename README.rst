@@ -1,9 +1,8 @@
-﻿===============================
 Tailwind Traders (Power BI)
-===============================
+===========================
 
 A minimal publication of my Tailwind Traders capstone for the Microsoft Power BI Data Analyst course.
-This repo intentionally includes only the **Power BI Desktop file** and the **cleaned Excel sources** used after Power Query transformations.
+This repo intentionally includes only the **Power BI Desktop file** and the **Excel sources** used for Power Query transformations.
 
 What’s Included
 ---------------
@@ -34,8 +33,8 @@ Quick Start
 2. If prompted, confirm the **data source paths** for the Excel files under ``data/``.
 3. Refresh the report to validate data and visuals.
 
-Screenshots (Optional)
-----------------------
+Screenshots
+-----------
 
 .. image:: assets/report-sales-overview.png
    :alt: Sales Overview page
