@@ -36,15 +36,15 @@ Quick Start
 Screenshots
 -----------
 
-.. image:: assets/report-sales-overview.png
+.. image:: assets/report_sales_overview.png
    :alt: Sales Overview page
    :width: 900px
 
-.. image:: assets/report-profit-overview.png
+.. image:: assets/report_profit_overview.png
    :alt: Profit Overview page
    :width: 900px
 
 License
 -------
 
-This project is licensed under the MIT License — see the ``LICENSE`` file for details.
+This project is licensed under the MIT License - see the `LICENSE <LICENSE>`_ file for details.
