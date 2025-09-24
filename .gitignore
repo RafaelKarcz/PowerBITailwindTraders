@@ -1,0 +1,11 @@
+﻿# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Power BI temp/restore
+*.pbix.RESTORE
+*.pbit.RESTORE
+*.tmp.pbix
+~$*
