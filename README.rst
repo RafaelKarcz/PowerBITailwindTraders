@@ -15,16 +15,25 @@ Report Pages
 ------------
 
 1. **Sales Overview**
-   - KPIs: Stock, Sum Quantity Purchased, Median Sales
-   - Slicer: Country Name
-   - Visuals: Loyalty Points by Country (Bar), Quantity Sold by Product Category (Column),
-     Median Sales Distribution by Country (Pie), Median Sales Over Time (Line)
+
+   - **KPIs:** Stock, Sum Quantity Purchased, Median Sales
+   - **Slicer:** Country Name
+   - **Visuals:**
+     
+     - Loyalty Points by Country (Bar)
+     - Quantity Sold by Product Category (Column)
+     - Median Sales Distribution by Country (Pie)
+     - Median Sales Over Time (Line)
 
 2. **Profit Overview**
-   - KPIs: YTD Profit Margin, Net Revenue (USD), Gross Revenue (USD by Date)
-   - Slicer: Date
-   - Visuals: Net Revenue by Product (Bar), Yearly Profit Margin by Country (Doughnut),
-     Yearly Profit Margin Over Time (Area)
+
+   - **KPIs:** YTD Profit Margin, Net Revenue (USD), Gross Revenue (USD by Date)
+   - **Slicer:** Date
+   - **Visuals:**
+     
+     - Net Revenue by Product (Bar)
+     - Yearly Profit Margin by Country (Doughnut)
+     - Yearly Profit Margin Over Time (Area)
 
 Quick Start
 -----------
